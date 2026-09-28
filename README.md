@@ -15,6 +15,8 @@ Our team built MealWise during the **CMU Silicon Valley ECE Hackathon with NewsB
 [**Try MealWise →**](https://newsbreak-hackathon-0919.onrender.com/)
 
 > The current public demo uses simulated delivery quotes and clearly labels them as such. It does not claim live delivery availability or checkout pricing.
+
+<img width="2460" height="1108" alt="image" src="https://github.com/user-attachments/assets/8a57bd3b-3ae5-49e2-8496-6e0d729a2efd" />
 <img width="2004" height="1070" alt="image" src="https://github.com/user-attachments/assets/c136b2ef-5ef7-47e3-bab2-32569061d1d0" />
 <img width="1976" height="1168" alt="image" src="https://github.com/user-attachments/assets/a6715fba-8e82-471c-a371-94d126f516b0" />
 <img width="4999" height="1800" alt="7d04c6c29a9159c61e32bbd93c4020b4" src="https://github.com/user-attachments/assets/90076591-5784-4597-a190-fc24b016b502" />
